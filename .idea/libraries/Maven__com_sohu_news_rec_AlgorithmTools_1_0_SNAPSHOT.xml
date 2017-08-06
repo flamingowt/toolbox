@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sohu.news.rec:AlgorithmTools:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/news/rec/AlgorithmTools/1.0-SNAPSHOT/AlgorithmTools-1.0-20170327.033605-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/news/rec/AlgorithmTools/1.0-SNAPSHOT/AlgorithmTools-1.0-20170327.033605-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/news/rec/AlgorithmTools/1.0-SNAPSHOT/AlgorithmTools-1.0-20170327.033605-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

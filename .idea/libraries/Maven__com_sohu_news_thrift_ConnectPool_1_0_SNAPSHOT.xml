@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sohu.news.thrift:ConnectPool:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/news/thrift/ConnectPool/1.0-SNAPSHOT/ConnectPool-1.0-20170309.103248-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/news/thrift/ConnectPool/1.0-SNAPSHOT/ConnectPool-1.0-20170309.103248-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sohu/news/thrift/ConnectPool/1.0-SNAPSHOT/ConnectPool-1.0-20170309.103248-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
